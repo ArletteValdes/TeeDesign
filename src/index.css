@@ -1,0 +1,39 @@
+.planes {
+font-family: 'Mali', cursive;
+padding-left:80px ;
+padding-top:50px;
+}
+
+.fondo{
+  background-color: pink;
+}
+
+
+.navbar{
+  font-family: 'Mali', cursive;
+  font-size:x-large;
+
+}
+
+.bg{
+  color: aliceblue;
+background-image: url("/src/assets/img/floral1.jpg");
+text-align: center;
+padding: 50px;
+}
+
+
+.nf404{
+  text-align: center;
+  size: 300px;
+}
+
+.img.avatar{
+  padding: 0;
+  margin:0;
+  size: 300px;
+}
+
+
+
+
